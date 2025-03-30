@@ -8,7 +8,7 @@ export function Contact() {
 
     const h2Element = document.createElement("h2");
     h2Element.textContent = "Get in touch with Fat Chocobo";
-    h2Element.style.cssText = "text-align: center; font-size: 2.5rem";
+    h2Element.style.cssText = "text-align: center; font-size: 2.5rem; padding: 2rem;";
     divElement.appendChild(h2Element);
 
     const pElement = document.createElement("p");
