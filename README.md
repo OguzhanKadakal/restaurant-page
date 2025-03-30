@@ -1,1 +1,2 @@
-# restaurant-page
+# Fat Chocobo – Webpack Practice
+This is a project created to practice **Webpack** as part of *The Odin Project* curriculum. The goal is to set up a modular JavaScript project using Webpack for bundling, asset management, and efficient development workflow.
