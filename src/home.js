@@ -16,7 +16,7 @@ export function Homepage() {
     pElement2.textContent = "Explore our website to see our delicious Menu or get in touch with us via the Contact page. At Fat Chocobo, we believe in bringing joy to every meal, so come hungry and leave satisfied!";
 
     const pElement3 = document.createElement("p");
-    pElement3.textContent = "Thanks for stopping by—we can’t wait to welcome you!";
+    pElement3.textContent = "Thanks for stopping by—we can’t wait to welcome you";
 
     pElement1.classList.add("home-p");
     pElement2.classList.add("home-p");
