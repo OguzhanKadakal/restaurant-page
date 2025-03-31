@@ -24,11 +24,12 @@ module.exports = {
             }
         ],
     },
+    
     devtool: 'inline-source-map',
     devServer: {
         static: './dist',
     },
-    mode: 'development',
+    mode: 'production',
     plugins: [
         new HtmlWebpackPlugin({
             template: "./src/template.html",
